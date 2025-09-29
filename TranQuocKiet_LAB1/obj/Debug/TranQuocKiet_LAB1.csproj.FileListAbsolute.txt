@@ -1,0 +1,9 @@
+C:\Users\kiett\source\repos\TranQuocKiet_LAB1\TranQuocKiet_LAB1\bin\Debug\TranQuocKiet_LAB1.exe.config
+C:\Users\kiett\source\repos\TranQuocKiet_LAB1\TranQuocKiet_LAB1\bin\Debug\TranQuocKiet_LAB1.exe
+C:\Users\kiett\source\repos\TranQuocKiet_LAB1\TranQuocKiet_LAB1\bin\Debug\TranQuocKiet_LAB1.pdb
+C:\Users\kiett\source\repos\TranQuocKiet_LAB1\TranQuocKiet_LAB1\obj\Debug\TranQuocKiet_LAB1.csproj.AssemblyReference.cache
+C:\Users\kiett\source\repos\TranQuocKiet_LAB1\TranQuocKiet_LAB1\obj\Debug\TranQuocKiet_LAB1.csproj.CoreCompileInputs.cache
+C:\Users\kiett\source\repos\TranQuocKiet_LAB1\TranQuocKiet_LAB1\obj\Debug\TranQuocKiet_LAB1.exe
+C:\Users\kiett\source\repos\TranQuocKiet_LAB1\TranQuocKiet_LAB1\obj\Debug\TranQuocKiet_LAB1.pdb
+C:\Users\kiett\source\repos\TranQuocKiet_LAB1\TranQuocKiet_LAB1\obj\Debug\TranQuocKiet_LAB1.exe.config
+C:\Users\kiett\source\repos\TranQuocKiet_LAB1\TranQuocKiet_LAB1\bin\Debug\input_array.txt
