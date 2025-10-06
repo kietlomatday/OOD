@@ -1,0 +1,10 @@
+C:\Users\kiett\source\repos\TranQuocKiet_1150080101_BTT6\TranQuocKiet_1150080101_BTT6\bin\Debug\TranQuocKiet_1150080101_BTT6.exe.config
+C:\Users\kiett\source\repos\TranQuocKiet_1150080101_BTT6\TranQuocKiet_1150080101_BTT6\bin\Debug\TranQuocKiet_1150080101_BTT6.exe
+C:\Users\kiett\source\repos\TranQuocKiet_1150080101_BTT6\TranQuocKiet_1150080101_BTT6\bin\Debug\TranQuocKiet_1150080101_BTT6.pdb
+C:\Users\kiett\source\repos\TranQuocKiet_1150080101_BTT6\TranQuocKiet_1150080101_BTT6\obj\Debug\TranQuocKiet_1150080101_BTT6.csproj.AssemblyReference.cache
+C:\Users\kiett\source\repos\TranQuocKiet_1150080101_BTT6\TranQuocKiet_1150080101_BTT6\obj\Debug\TranQuocKiet_1150080101_BTT6.Form1.resources
+C:\Users\kiett\source\repos\TranQuocKiet_1150080101_BTT6\TranQuocKiet_1150080101_BTT6\obj\Debug\TranQuocKiet_1150080101_BTT6.Properties.Resources.resources
+C:\Users\kiett\source\repos\TranQuocKiet_1150080101_BTT6\TranQuocKiet_1150080101_BTT6\obj\Debug\TranQuocKiet_1150080101_BTT6.csproj.GenerateResource.cache
+C:\Users\kiett\source\repos\TranQuocKiet_1150080101_BTT6\TranQuocKiet_1150080101_BTT6\obj\Debug\TranQuocKiet_1150080101_BTT6.csproj.CoreCompileInputs.cache
+C:\Users\kiett\source\repos\TranQuocKiet_1150080101_BTT6\TranQuocKiet_1150080101_BTT6\obj\Debug\TranQuocKiet_1150080101_BTT6.exe
+C:\Users\kiett\source\repos\TranQuocKiet_1150080101_BTT6\TranQuocKiet_1150080101_BTT6\obj\Debug\TranQuocKiet_1150080101_BTT6.pdb
